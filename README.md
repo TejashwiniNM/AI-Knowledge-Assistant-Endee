@@ -1,7 +1,7 @@
 # AI Knowledge Assistant Endee
 
 ## Project Overview
-AI Knowledge Assistant is a web-based AI system that answers questions using a curated knowledge base (`data/documents.txt`). The system converts documents into vector embeddings and uses semantic search to return the most relevant answer to a user's query.
+AI Knowledge Assistant is a web-based AI system that answers questions using a curated knowledge base (`data/knowledge.txt`). The system converts documents into vector embeddings and uses semantic search to return the most relevant answer to a user's query.
 
 This project demonstrates how to build a simple AI-powered semantic search system using Endee vector database principles and Sentence Transformers.
 
@@ -12,7 +12,7 @@ This project demonstrates how to build a simple AI-powered semantic search syste
 
 User Query
 ↓
-Semantic Search (documents.txt)
+Semantic Search (requirements.txt)
 ↓
 Best Matching Answer
 ↓
@@ -24,7 +24,7 @@ Displayed on Web Interface / Console
 ## Features
 
 - Semantic search using vector embeddings (Sentence Transformers).  
-- Knowledge base stored in `data/documents.txt`.  
+- Knowledge base stored in `data/knowledge.txt`.  
 - Converts text documents → embeddings → vectors.  
 - Returns the best matching document for a user query.  
 - Clean structure suitable for GitHub and deployment.
