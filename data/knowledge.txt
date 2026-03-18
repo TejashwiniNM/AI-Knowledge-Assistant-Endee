@@ -1,0 +1,20 @@
+Artificial Intelligence is the simulation of human intelligence in machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers.
+Natural Language Processing enables computers to understand human language.
+Computer Vision allows machines to interpret images and videos.
+Supervised learning uses labeled data for training models.
+Unsupervised learning discovers patterns in unlabeled data.
+Reinforcement learning trains agents using rewards and penalties.
+Neural networks are inspired by the structure of the human brain.
+Embeddings convert text into numerical vectors for semantic comparison.
+Vector databases store embeddings to enable fast similarity search.
+Semantic search retrieves results based on meaning rather than keywords.
+Large Language Models can generate human-like text responses.
+Feature engineering improves machine learning model performance.
+Training data is used to teach machine learning models.
+Model evaluation measures the accuracy of predictions.
+Precision measures how many predicted positives are correct.
+Recall measures how many actual positives are correctly identified.
+Overfitting occurs when a model memorizes training data.
+Regularization helps prevent overfitting in machine learning models.
