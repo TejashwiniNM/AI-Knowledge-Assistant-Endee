@@ -83,7 +83,7 @@ Project Structure
 AI-KNOWLEDGE_ASSISTANT_ENDEE/
 │
 ├── data/
-│   └── documents.txt       # Knowledge base documents
+│   └── knowledge.txt       # Knowledge base documents
 ├── src/
 │   ├── embeddings.py       # Embedding generator
 │   ├── store_vectors.py    # Convert documents → vectors
