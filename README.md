@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# AI Knowledge Assistant — Emanager Endee
+# AI Knowledge Assistant Endee
 
 ## Project Overview
-AI Knowledge Assistant is a web-based AI system that answers questions using a curated knowledge base (`data/knowledge.txt`). The system converts documents into vector embeddings and uses semantic search to return the most relevant answer to a user's query.  
+AI Knowledge Assistant is a web-based AI system that answers questions using a curated knowledge base (`data/documents.txt`). The system converts documents into vector embeddings and uses semantic search to return the most relevant answer to a user's query.
 
 This project demonstrates how to build a simple AI-powered semantic search system using Endee vector database principles and Sentence Transformers.
 
@@ -34,19 +33,21 @@ Displayed on Web Interface / Console
 
 ## Setup Instructions
 
-1. Clone the repository:
+1. **Clone the repository:**
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/TejashwiniNM/AI-Knowledge-Assistant-Endee.git
 cd AI-KNOWLEDGE_ASSISTANT_ENDEE
 
 Create a virtual environment (recommended):
 
-# Using conda
+Using conda:
+
 conda create -n endee_project python=3.14
 conda activate endee_project
 
-# Or using venv
+Or using venv:
+
 python -m venv venv
 venv\Scripts\activate
 
@@ -60,12 +61,13 @@ python src/store_vectors.py
 
 Run the application:
 
+Console:
+
 python -m app.py
-# Or using Streamlit
+
+Streamlit (optional):
+
 python -m streamlit run streamlit_app.py
-
-Start asking questions and get answers from your knowledge base.
-
 Example Usage
 
 Question: What is artificial intelligence?
@@ -117,5 +119,3 @@ Tejashwini N M
 Email: tejashwininmteju@gmail.com
 
 GitHub: https://github.com/TejashwiniNM
-
-
