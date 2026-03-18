@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Knowledge Assistant — Emanager Endee
 
 ## Project Overview
@@ -116,3 +117,5 @@ Tejashwini N M
 Email: tejashwininmteju@gmail.com
 
 GitHub: https://github.com/TejashwiniNM
+
+
